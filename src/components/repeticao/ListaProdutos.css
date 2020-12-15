@@ -1,0 +1,13 @@
+.TableProducts table{
+  width: 100%;
+}
+.TableProducts th{
+
+  background-color: greenyellow;
+}
+
+.TableProducts .Par{
+
+  background-color: rgb(157, 111, 218);
+}
+
